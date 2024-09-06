@@ -35,20 +35,19 @@ DELETE
 RESET
 
 Illustrations
-![image](https://github.com/user-attachments/assets/c74e928f-372d-4be7-b1fa-41ffcbc48c05)
+![image](https://github.com/user-attachments/assets/8ecdc5f6-246d-4b1a-b124-f5e4108adf01)
 
-![image](https://github.com/user-attachments/assets/195aadf1-1ee5-48e7-8028-6a1479a84050)
+![image](https://github.com/user-attachments/assets/da68b2e8-4755-45fc-b4eb-c013786cf14d)
 
-![image](https://github.com/user-attachments/assets/bfec9354-afd0-4355-9d0c-68b58a3bf944)
+![image](https://github.com/user-attachments/assets/60295250-5b00-4158-a9f8-252e5414a330)
 
-![image](https://github.com/user-attachments/assets/8f78a478-472a-41a9-b698-52ff913e1cac)
+![image](https://github.com/user-attachments/assets/63ace848-c1f0-43de-9acc-bae699828dc3)
 
-![image](https://github.com/user-attachments/assets/f76533b7-ec7c-409a-9b8e-a07315baf81c)
+![image](https://github.com/user-attachments/assets/b0c4daf4-5647-493d-bdb0-da5e536cab1c)
 
-![image](https://github.com/user-attachments/assets/fbef6262-7b18-4bbb-bd75-5713b200d573)
+![image](https://github.com/user-attachments/assets/083a5ea5-fd4a-4af1-afbe-1ed0b06001f9)
 
-![image](https://github.com/user-attachments/assets/ecdeb5f6-18c0-4f3d-973b-a66da3e430e2)
-
+![image](https://github.com/user-attachments/assets/97b38999-52c3-490b-9a91-1936ae302645)
 
 Scope of functionalities : 
 
